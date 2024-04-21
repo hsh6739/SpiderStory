@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1e6119e66015ff40938cda4248147aa, type: 3}
+  m_Name: PickupRangeUp
+  m_EditorClassIdentifier: 
+  itemType: 7
+  itemId: 6
+  itemName: "\uACE8\uB4DC \uBC94\uC704 \uC99D\uAC00"
+  itemDesc: "\uACE8\uB4DC \uC5BB\uB294 \uBC94\uC704 \uC99D\uAC00"
+  itemIcon: {fileID: 0}
+  level: 0
+  maxLevel: 5
+  damages: []
+  counts: 
+  fireRates: []
+  rotationSpeeds: []
+  scales:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  projectilePrefab: {fileID: 0}
+  projectileImage: {fileID: 0}
